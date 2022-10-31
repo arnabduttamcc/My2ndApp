@@ -1,0 +1,6 @@
+remove.txt
+
+**/remove/test-one.txt
+config/*remove/
+config/db/*remove/*log.txt
+**/src/*log.txt
