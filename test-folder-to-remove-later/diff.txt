@@ -5,3 +5,4 @@ different File Check Add
 4. Final Work
 5. Git --amend command test
 6. Testing amend to commit past then amend then push , check the log
+7. Hellow -Amend
