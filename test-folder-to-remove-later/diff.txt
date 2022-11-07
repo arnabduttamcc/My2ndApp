@@ -3,3 +3,5 @@ different File Check Add
 2. Hi! This is new Addition!
 3. Testing 2nd time Again Change One
 4. Final Work
+5. Git --amend command test
+6. Testing amend to commit past then amend then push , check the log
